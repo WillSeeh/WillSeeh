@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning how to design Webpages.
 - 💞️ I’m looking to collaborate on stuff once I get good enough.
-- 📫 How to reach me - my GiyHub for now.
+- 📫 How to reach me - my GitHub for now.
 
 <!---
 WillSeeh/WillSeeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
